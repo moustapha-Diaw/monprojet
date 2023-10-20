@@ -1,0 +1,60 @@
+
+body{
+    background-color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+}
+.div1{
+    background-color: white;
+    width: 30%;
+    margin-left: 220px;
+   
+}
+.div1 a{
+ text-decoration: none;
+}
+
+.div1 form input{
+    border: none;
+    border-bottom: 2px solid gray;
+    width: 350px;
+}
+button a {
+    color: white;
+    font-size: large;
+}
+.global .div1{
+    padding-left: 30px;
+}
+.div2 img{
+    width: 30%;
+  
+}
+img{
+    float: right;
+    margin-top: -280px;
+    margin-right: 290px;
+    opacity: 0.5;
+    
+}
+.para{
+    text-align: center;
+    margin-left: 300px;
+   
+}
+img{
+    position: relative;
+}
+.para{
+    position: absolute;
+    float: left;
+    top: 50px;
+    right: 400px;
+   color: white;
+}
+.div1 button{
+   background-color: blueviolet;
+   width: 350px;
+   height: 40px;
+   color: white;
+   border-radius: 10px 10px;
+}
